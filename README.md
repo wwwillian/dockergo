@@ -1,5 +1,3 @@
-# Docker-Go
-
 ## Docker - Desafio Go
 
 ### Download da imagem docker:
