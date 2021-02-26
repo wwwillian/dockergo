@@ -8,7 +8,7 @@ Download da imagem docker:
 
 1. docker pull wwwillian/codeeducation
 
-Verifique o tamanho:
+Verifique o tamanho da imagem docker:
 
 2. docker images
 
